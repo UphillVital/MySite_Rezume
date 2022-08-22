@@ -273,13 +273,13 @@ body {
 
 @font-face {
 	font-family: "Monotype Corsiva";
-	src: url("../fonts/monotype-corsiva.eot"); /* IE9 Compat Modes */
-	src: url("../fonts/monotype-corsiva.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-		url("../fonts/monotype-corsiva.otf") format("opentype"), /* Open Type Font */
-		url("../fonts/monotype-corsiva.svg") format("svg"), /* Legacy iOS */
-		url("../fonts/monotype-corsiva.ttf") format("truetype"), /* Safari, Android, iOS */
-		url("../fonts/monotype-corsiva.woff") format("woff"), /* Modern Browsers */
-		url("../fonts/monotype-corsiva.woff2") format("woff2"); /* Modern Browsers */
+	src: url("../monotype-corsiva.eot"); /* IE9 Compat Modes */
+	src: url("../monotype-corsiva.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+		url("../monotype-corsiva.otf") format("opentype"), /* Open Type Font */
+		url("../monotype-corsiva.svg") format("svg"), /* Legacy iOS */
+		url("../monotype-corsiva.ttf") format("truetype"), /* Safari, Android, iOS */
+		url("../monotype-corsiva.woff") format("woff"), /* Modern Browsers */
+		url("../monotype-corsiva.woff2") format("woff2"); /* Modern Browsers */
 	font-weight: normal;
 	font-style: normal;
 }
