@@ -1,2 +1,0 @@
-# MySite_Rezume
-rezume
