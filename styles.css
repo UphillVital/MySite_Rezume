@@ -47,8 +47,9 @@ body {
 }
 
 .about-name:hover {
-    color: #006400;
-    font-weight: 700;
+    color: #191970;
+    font-weight: 400;
+    text-shadow: 0 0 2px green;
 }
 
 /* about-descript */
