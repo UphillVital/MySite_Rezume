@@ -46,6 +46,11 @@ body {
     margin-bottom: 25px;
 }
 
+.about-name:hover {
+    color: #191970;
+    font-weight: 700;
+}
+
 /* about-descript */
 .about-description {
     font-style: normal;
